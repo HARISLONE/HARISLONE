@@ -11,111 +11,14 @@
 
 ---
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding" width="400">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harislone&label=Profile%20views&color=0e75b6&style=flat-square" width="280" alt="Profile views">
-  </div>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🌱 I'm currently learning **Node.js, Express, and MongoDB**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 How to reach me **harislone0@gmail.com**
-- ⚡ Fun fact **I am funny and love solving complex problems**
+# 💫 About Me:
+🌱 I'm currently learning Node.js, Express, and MongoDB<br>
+👯 I'm looking to collaborate on Open Source Projects<br>
+💬 Ask me about HTML, CSS, JavaScript, React<br>
+📫 How to reach me: harislone0@gmail.com<br>
+⚡ Fun fact: 👨‍👩‍👧‍👦 When not at the keyboard, I prioritize spending time with my wife and loved ones.
 
 ---
-
-## 🚀 Languages & Tools
-
-<table align="center" cellpadding="10">
-  <tr>
-    <!-- FRONTEND -->
-    <td align="center" valign="top" width="33%">
-      <!-- Colored heading badge -->
-      <img src="https://img.shields.io/badge/Frontend-Development-7b3fe4?style=for-the-badge&logo=html5" alt="Frontend" />
-      <br/><br/>
-      <!-- icons - centered -->
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" />
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="48" height="48" />
-      </p>
-      <sub><strong>HTML • CSS • JavaScript • React • Redux • Tailwind</strong></sub>
-    </td>
-    <!-- BACKEND -->
-    <td align="center" valign="top" width="33%">
-      <img src="https://img.shields.io/badge/Backend-Development-0ea5a0?style=for-the-badge&logo=node.js" alt="Backend" />
-      <br/><br/>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" />
-      </p>
-      <sub><strong>Node.js • Express • MongoDB</strong></sub>
-    </td>
-    <!-- TOOLS -->
-    <td align="center" valign="top" width="33%">
-      <img src="https://img.shields.io/badge/Tools-softwares-brightgreen?style=for-the-badge" alt="Tools" />
-      <br/><br/>
-      <p align="center">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="48" height="48" />
-      </p>
-      <sub><strong>Git • Postman • Figma • Firebase • Babel</strong></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- ⭐ FIRST THREE STATS IN ONE ROW -->
-  <div>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=harislone&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC43D" 
-      height="180px"
-      alt="Haris GitHub stats"
-    />
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=harislone&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" 
-      height="180px"
-      alt="GitHub Streak"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=harislone&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" 
-      height="180px"
-      alt="Top Languages"
-    />
-  </div>
-
-  <!-- ⭐ REMAINING SECTIONS (UNCHANGED) -->
-
-  <br/>
-
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harislone&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-
-  <br/>
-
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harislone&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FFC43D&point=FFFFFF)
-
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -130,22 +33,30 @@
 
 ---
 
-## 💻 My Projects
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harislone&repo=NutriTrack&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC43D)](https://github.com/harislone/repo1)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harislone&repo=InvestmentPortfolio-Tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC43D)](https://github.com/harislone/repo2)
+  
+![](https://github-readme-stats.vercel.app/api?username=HARISLONE&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HARISLONE&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARISLONE&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
 ---
 
-<!-- ## 📝 Latest Blog Posts -->
+### ✍️ Random Dev Quote
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
 
 ---
 
@@ -160,5 +71,5 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=harislone" alt="Visitor Count" width="180" />
+  <img src="https://komarev.com/ghpvc/?username=harislone&label=Profile%20views&color=0e75b6&style=flat-square" width="180" alt="Profile views">
 </div>
