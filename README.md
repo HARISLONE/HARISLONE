@@ -53,6 +53,6 @@ I'm a Software Developer in progress passionate about building real-world applic
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harislone&label=Profile%20views&color=0e75b6&style=flat-square" width="180" alt="Profile views">
-</div>
+</div> -->
