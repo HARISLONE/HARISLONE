@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&weight=700&center=true&width=650&height=80&color=f75c7e&vCenter=true&size=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+JavaScript+Developer;MERN+Stack+Developer;Frontend+%2B+Backend+Developer;React+%2B+Node.js+Developer&font=Fira%20Code&weight=700&center=true&width=650&height=80&color=f75c7e&vCenter=true&size=40">
 </div>
 
 ---
